@@ -7,7 +7,7 @@ The dashboard provides a detailed analysis of **Superstore Sales Data**, highlig
 ---
 
 ## 🖼️ Dashboard Preview
-
+<img src=b68a6886-de08-42e1-ac9a-f0ffad831fd1.png>
 
 ---
 
